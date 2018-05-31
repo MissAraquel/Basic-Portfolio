@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(../images/#);
+    background-image: url(../images/concrete_seamless.png);
 }
 
 .main-wrapper, .wrap{
@@ -111,31 +111,31 @@ button {
 }
 
 .innerBox1{
-    background: url('../images/#') no-repeat center center;
+    background: url('../images/img1.jpg') no-repeat center center;
     background-size: cover;
     float: left;
 }
 
 .innerBox2{
-    background: url('../images/#') no-repeat center center;
+    background: url('../images/img2.jpg') no-repeat center center;
     background-size: cover;
     float: left;
 }
 
 .innerBox3{
-    background: url('../images/#') no-repeat center center;
+    background: url('../images/img3.jpg') no-repeat center center;
     background-size: cover;
     float: left;
 }
 
 .innerBox4{
-    background: url('../images/#') no-repeat center center;
+    background: url('../images/img4.jpg') no-repeat center center;
     background-size: cover;
     float: left;
 }
 
 .innerBox5{
-    background: url('../images/#') no-repeat center center;
+    background: url('../images/img5.jpg') no-repeat center center;
     background-size: cover;
     float: left;
 }
