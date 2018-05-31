@@ -7,6 +7,10 @@ body{
     background-image: url(../images/concrete_seamless.png);
 }
 
+p {
+    color: gray;
+}
+
 .main-wrapper, .wrap{
     width: 100%;
 }
@@ -66,7 +70,7 @@ nav ul li a {
 }
 
 hr{
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
 
