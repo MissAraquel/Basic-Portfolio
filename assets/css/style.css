@@ -22,7 +22,7 @@ p {
 .heading h1{
     background-color: #4aaaa5;
     color: #fff;
-    width: 100px;
+    width: 180px;
     position: relative;
     top: 28px;
     margin-left: 60px;
@@ -35,7 +35,7 @@ nav {
 
 nav ul li {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 60px;
     position: relative;
     bottom: 5px;
     
